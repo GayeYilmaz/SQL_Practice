@@ -9,7 +9,6 @@ CREATE TABLE employee(
 
 
 --2. Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
-![Alt text](C:\Users\gaye3\OneDrive\Masaüstü\FILES\mockara.jpg?raw=true "Title")
 
 --3. Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 
